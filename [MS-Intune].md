@@ -36,3 +36,6 @@ By using a collection of cloud-based technologies, Windows Autopilot:
 From the user's perspective, it only takes a few simple operations to make their device ready
 to use. The only interaction required from the end user is to connect to a network and to verify 
 their credentials. Everything beyond that is automated.
+
+
+
