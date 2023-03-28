@@ -8,3 +8,9 @@ Additionally, endpoints also include the applications used by your organization
 
 
 <img width="1299" alt="image" src="https://user-images.githubusercontent.com/104815254/228342592-2370904a-f86a-460b-a6f2-55485d4bd4d7.png">
+
+The Microsoft Intune console helps keep your organization's cloud and on-premises devices, apps, 
+and data secure. Intune integrates Microsoft Intune, Microsoft Endpoint Configuration Manager, 
+Desktop Analytics, and Windows Autopilot.
+
+
