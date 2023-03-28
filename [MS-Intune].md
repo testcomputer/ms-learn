@@ -14,3 +14,4 @@ and data secure. Intune integrates Microsoft Intune, Microsoft Endpoint Configur
 Desktop Analytics, and Windows Autopilot.
 
 
+<img width="1007" alt="image" src="https://user-images.githubusercontent.com/104815254/228343025-dba6c3e9-8fb7-444a-9cec-dc51c5a40267.png">
