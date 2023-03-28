@@ -25,3 +25,14 @@ on for the first time. Windows Autopilot also allows for device resetting, repur
 Utilizing cloud-based services, devices can be automatically joined to Azure AD, enrolled into MDM services 
 like Microsoft Intune, have restricted access, be assigned to configuration groups, and have customized 
 Out-of-box-experience (OOBE) content tailored to the organization.
+
+
+By using a collection of cloud-based technologies, Windows Autopilot:
+
+    Reduces the time IT spends on deploying, managing, and retiring devices.
+    Reduces the infrastructure required to maintain the devices.
+    Maximizes ease of use for all types of end users.
+
+From the user's perspective, it only takes a few simple operations to make their device ready
+to use. The only interaction required from the end user is to connect to a network and to verify 
+their credentials. Everything beyond that is automated.
