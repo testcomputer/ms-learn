@@ -1,47 +1,50 @@
-<!DOCTYPE html>
-<html>
-  <head>
-   Microsoft Learn Module Summary
-  </head>
-  <body>
-    <h1>Microsoft Learn Module Summary: [Module Name]</h1>
-    <p>This repository contains a summary of the [Module Name] module offered by Microsoft Learn. This module covers [brief description of the topic covered in the module].</p>
-    
-          <h2>Module Details</h2>
-<table>
-  <tr>
-    <td>Module Name:</td>
-    <td>[Module Name]</td>
-  </tr>
-  <tr>
-    <td>Module ID:</td>
-    <td>[Module ID]</td>
-  </tr>
-  <tr>
-    <td>Skill level:</td>
-    <td>[Beginner/Intermediate/Advanced]</td>
-  </tr>
-  <tr>
-    <td>Time:</td>
-    <td>[Estimated time required to complete the module]</td>
-  </tr>
-  <tr>
-    <td>Technology:</td>
-    <td>[Technology or product covered in the module]</td>
-  </tr>
-</table>
+# Project Name
 
-<h2>Learning Objectives</h2>
-<ul>
-  <li>[Learning objective 1]</li>
-  <li>[Learning objective 2]</li>
-  <li>[Learning objective 3]</li>
-  <li>[Learning objective 4]</li>
-</ul>
+A brief introduction of the project.
 
-<h2>Prerequisites</h2>
-<ul>
-  <li>[Prerequisite 1]</li>
-  <li>[Prerequisite 2]</li>
-  <li>[Prerequisite 3]</li>
-</ul>
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+
+## Introduction
+
+An in-depth description of the project, its purpose, and its scope. This section should give readers a clear understanding of what the project is about and what it aims to achieve.
+
+## Getting Started
+
+Instructions on how to set up the project on a local machine. This section should guide readers through the necessary steps to get the project up and running.
+
+## Usage
+
+A guide on how to use the project, including any relevant commands, inputs, and outputs. This section should provide readers with a clear understanding of how to interact with the project.
+
+## Features
+
+A list of the main features of the project. This section should highlight the key functionalities and capabilities of the project.
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Technologies
+
+A list of the technologies and tools used to build the project. This section should provide readers with a clear understanding of the underlying technologies and how they were used.
+
+| Technology | Description |
+| --- | --- |
+| Technology 1 | Description of technology 1 |
+| Technology 2 | Description of technology 2 |
+| Technology 3 | Description of technology 3 |
+
+## Contributing
+
+Guidelines for contributing to the project. This section should outline the rules and processes for contributing to the project, including how to submit pull requests and report issues.
+
+- Fork the repository
+- Make your changes
+- Submit a pull request
