@@ -24,7 +24,7 @@ A domain tree is a hierarchical collection of domains that share a common root d
 
 A forest is a collection of one or more domains that have a common AD DS root, a common schema, and a common global catalog.
 
-# OU
+# OU (Organizational Unit)
 
 An OU is a container object for users, groups, and computers that provides a framework for delegating administrative rights and administration by linking Group 
 Policy Objects (GPOs).
